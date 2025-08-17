@@ -1,2 +1,6 @@
-python-pptx==1.0.2
-loguru==0.7.2
+python-pptx
+loguru
+langchain
+langchain-core
+langchain-ollama
+gradio
